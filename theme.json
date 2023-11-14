@@ -20,7 +20,6 @@
             ]
         },
         "typography": {
-            "dropCap": false,
             "fontFamilies": [
                 {
                     "fontFamily": "'Assistant', sans-serif",
@@ -112,20 +111,9 @@
             "title": "Header"
         },
         {
-            "name": "default-header",
-            "title": "Defatulf Header",
-            "area": "header"
-        },
-        {
             "area": "footer",
             "name": "footer",
             "title": "Footer"
-        }
-    ],
-    "customTemplates": [
-        {
-            "name": "front-page",
-            "title": "Home"
         }
     ]
 }

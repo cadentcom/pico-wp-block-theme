@@ -24,7 +24,7 @@
             <!-- wp:button -->
             <div class="wp-block-button">
                 <a href="#" class="wp-block-button__link wp-element-button contact-btn">
-                    <?php esc_html_e('Contact us', 'pico-theme'); ?>
+                    <?php echo esc_html_x('Contact us', 'header call to action button' ,'pico-theme'); ?>
                 </a>
             </div>
             <!-- /wp:button -->

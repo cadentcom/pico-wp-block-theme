@@ -50,16 +50,16 @@ header .wp-block-button__link.wp-element-button:hover {
 }
 
 /* Hero Content */
-.hero-content {
+#block-f2e5d073-5dda-4e01-ac27-9f6a2ed0808f {
     padding: 200px 0;
 }
 
-.hero-content h1 {
+#block-f2e5d073-5dda-4e01-ac27-9f6a2ed0808f h1 {
     color: #2F4ABE;
     line-height: 60px;
 }
 
-.hero-content p {
+#block-f2e5d073-5dda-4e01-ac27-9f6a2ed0808f p {
     font-weight: 300;
     font-size: 14px;
     color: #474A52;
