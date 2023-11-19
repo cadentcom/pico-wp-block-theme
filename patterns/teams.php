@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Teams
- * Slug: cadent-seo/teams
+ * Slug: pico-theme/teams
  */
 ?>
 
@@ -14,7 +14,7 @@
             <div class="wp-block-column">
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Team', 'Team title tag', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Team', 'Team title tag', 'pico-theme'); ?>
                 </p>
                 <!-- /wp:paragraph -->
 
@@ -25,7 +25,7 @@
 
                 <!-- wp:heading {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h2 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Meet our professional team members', 'Team section title', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Meet our professional team members', 'Team section title', 'pico-theme'); ?>
                 </h2>
                 <!-- /wp:heading -->
 
@@ -36,7 +36,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, but the majority.', 'Team section title description', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, but the majority.', 'Team section title description', 'pico-theme'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
@@ -73,7 +73,7 @@
 
                 <!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h4 class="wp-block-heading has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Aloha Taylor', 'Team member name', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Aloha Taylor', 'Team member name', 'pico-theme'); ?>
                 </h4>
                 <!-- /wp:heading -->
 
@@ -84,7 +84,7 @@
 
                 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p class="has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Fonder &amp; CEO', 'Team member designation', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Fonder &amp; CEO', 'Team member designation', 'pico-theme'); ?>
                 </p>
                 <!-- /wp:paragraph -->
 
@@ -121,7 +121,7 @@
 
                 <!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h4 class="wp-block-heading has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Michle Jhon', 'Team member name', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Michle Jhon', 'Team member name', 'pico-theme'); ?>
                 </h4>
                 <!-- /wp:heading -->
 
@@ -132,7 +132,7 @@
 
                 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p class="has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('HR Manager', 'Team member designation', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('HR Manager', 'Team member designation', 'pico-theme'); ?>
                 </p>
                 <!-- /wp:paragraph -->
 
@@ -169,7 +169,7 @@
 
                 <!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h4 class="wp-block-heading has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Saira Smith', 'Team member name', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Saira Smith', 'Team member name', 'pico-theme'); ?>
                 </h4>
                 <!-- /wp:heading -->
 
@@ -180,7 +180,7 @@
 
                 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p class="has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Managing Director', 'Team member designation', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Managing Director', 'Team member designation', 'pico-theme'); ?>
                 </p>
                 <!-- /wp:paragraph -->
 

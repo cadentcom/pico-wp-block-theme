@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Portfolio Right Image
- * Slug: cadent-seo/portfolio-right-image
+ * Slug: pico-theme/portfolio-right-image
  */
 ?>
 
@@ -11,7 +11,7 @@
     <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%">
         <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
         <p style="margin-top:0px;margin-bottom:0px">
-            <?php echo esc_html_x('Content Marketing', 'protfolio title tag', 'cadent-seo'); ?>
+            <?php echo esc_html_x('Content Marketing', 'protfolio title tag', 'pico-theme'); ?>
         </p>
         <!-- /wp:paragraph -->
 
@@ -22,7 +22,7 @@
 
         <!-- wp:heading {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
         <h2 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-            <?php echo esc_html_x('Vestibulum ante ipsum faucibus luctus.', 'portfolio title', 'cadent-seo'); ?>
+            <?php echo esc_html_x('Vestibulum ante ipsum faucibus luctus.', 'portfolio title', 'pico-theme'); ?>
         </h2>
         <!-- /wp:heading -->
 
@@ -33,7 +33,7 @@
 
         <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
         <p style="margin-top:0px;margin-bottom:0px">
-            <?php echo esc_html_x('Praesent tempus nibh eget arcu dictum efficitur ac eu arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin vitae felis commodo', 'portfolio description', 'cadent-seo'); ?>
+            <?php echo esc_html_x('Praesent tempus nibh eget arcu dictum efficitur ac eu arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin vitae felis commodo', 'portfolio description', 'pico-theme'); ?>
         </p>
         <!-- /wp:paragraph -->
 
@@ -44,7 +44,7 @@
 
         <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
         <p style="margin-top:0px;margin-bottom:0px">
-            <?php echo esc_html_x('Praesent tempus nibh eget arcu dictum efficitur ac eu arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin vitae felis commodo', 'portfolio description', 'cadent-seo'); ?>
+            <?php echo esc_html_x('Praesent tempus nibh eget arcu dictum efficitur ac eu arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin vitae felis commodo', 'portfolio description', 'pico-theme'); ?>
         </p>
         <!-- /wp:paragraph -->
 

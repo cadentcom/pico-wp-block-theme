@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Tips and Tricks
- * Slug: cadent-seo/tips-and-tricks
+ * Slug: pico-theme/tips-and-tricks
  */
 ?>
 
@@ -10,7 +10,8 @@
 <div class="wp-block-group has-background"
     style="background-color:#e7eef6;margin-top:0px;margin-bottom:0px;padding-top:100px;padding-bottom:100px">
     <!-- wp:columns {"verticalAlignment":null,"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|70"}}}} -->
-    <div class="wp-block-columns"><!-- wp:column {"width":"60%","style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
+    <div class="wp-block-columns">
+        <!-- wp:column {"width":"60%","style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
         <div class="wp-block-column" style="flex-basis:60%">
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","bottom":"30px","left":"30px","right":"30px"}},"color":{"background":"#f3f8fd"}},"layout":{"type":"constrained","contentSize":""}} -->
             <div class="wp-block-group has-background"
@@ -31,7 +32,7 @@
                     <div class="wp-block-column" style="flex-basis:90%">
                         <!-- wp:heading {"level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                         <h4 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                            <?php echo esc_html_x('24/7 Traffic Updates', 'Tips and tricks title', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('24/7 Traffic Updates', 'Tips and tricks title', 'pico-theme'); ?>
                         </h4>
                         <!-- /wp:heading -->
 
@@ -42,7 +43,7 @@
 
                         <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                         <p style="margin-top:0px;margin-bottom:0px">
-                            <?php echo esc_html_x('Donec non ipsum accumsan velit malesuada aliquet eu ut mauris.Vait ut semper erat, a malesuada urna. Etiam viverra nisi nulla euismo eleifend, euismod lorem.', 'Tips and tricks description', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('Donec non ipsum accumsan velit malesuada aliquet eu ut mauris.Vait ut semper erat, a malesuada urna. Etiam viverra nisi nulla euismo eleifend, euismod lorem.', 'Tips and tricks description', 'pico-theme'); ?>
                         </p>
                         <!-- /wp:paragraph -->
                     </div>
@@ -71,7 +72,7 @@
                     <div class="wp-block-column" style="flex-basis:90%">
                         <!-- wp:heading {"level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                         <h4 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                            <?php echo esc_html_x('Reputation Management Brief', 'Tips and tricks title', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('Reputation Management Brief', 'Tips and tricks title', 'pico-theme'); ?>
                         </h4>
                         <!-- /wp:heading -->
 
@@ -82,7 +83,7 @@
 
                         <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                         <p style="margin-top:0px;margin-bottom:0px">
-                            <?php echo esc_html_x('Donec non ipsum accumsan velit malesuada aliquet eu ut mauris.Vait ut semper erat, a malesuada urna. Etiam viverra nisi nulla euismo eleifend, euismod lorem.', 'Tips and tricks description', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('Donec non ipsum accumsan velit malesuada aliquet eu ut mauris.Vait ut semper erat, a malesuada urna. Etiam viverra nisi nulla euismo eleifend, euismod lorem.', 'Tips and tricks description', 'pico-theme'); ?>
                         </p>
                         <!-- /wp:paragraph -->
                     </div>
@@ -111,7 +112,7 @@
                     <div class="wp-block-column" style="flex-basis:90%">
                         <!-- wp:heading {"level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                         <h4 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                            <?php echo esc_html_x('Keyword Rankings', 'Tips and tricks title', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('Keyword Rankings', 'Tips and tricks title', 'pico-theme'); ?>
                         </h4>
                         <!-- /wp:heading -->
 
@@ -122,7 +123,7 @@
 
                         <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                         <p style="margin-top:0px;margin-bottom:0px">
-                            <?php echo esc_html_x('Donec non ipsum accumsan velit malesuada aliquet eu ut mauris.Vait ut semper erat, a malesuada urna. Etiam viverra nisi nulla euismo eleifend, euismod lorem.', 'Tips and tricks description', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('Donec non ipsum accumsan velit malesuada aliquet eu ut mauris.Vait ut semper erat, a malesuada urna. Etiam viverra nisi nulla euismo eleifend, euismod lorem.', 'Tips and tricks description', 'pico-theme'); ?>
                         </p>
                         <!-- /wp:paragraph -->
                     </div>
@@ -135,10 +136,10 @@
         <!-- /wp:column -->
 
         <!-- wp:column {"width":"40%","verticalAlignment":"center"} -->
-        <div class="wp-block-column is-vertically-aligned-center"  style="flex-basis:40%">
+        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%">
             <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <p style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('Tips And Tricks', 'Tips and tricks tag', 'cadent-seo'); ?>
+                <?php echo esc_html_x('Tips And Tricks', 'Tips and tricks tag', 'pico-theme'); ?>
             </p>
             <!-- /wp:paragraph -->
 
@@ -148,7 +149,7 @@
 
             <!-- wp:heading {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <h2 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('Get the Tips &amp; Tricks About How To Grow Your Seles!', 'Tips and tricks section title', 'cadent-seo'); ?>
+                <?php echo esc_html_x('Get the Tips &amp; Tricks About How To Grow Your Seles!', 'Tips and tricks section title', 'pico-theme'); ?>
             </h2>
             <!-- /wp:heading -->
 
@@ -158,7 +159,7 @@
 
             <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <p style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('There are many variations of passages of Lorem available, but the majority have suffered altration in some.There are many variations available.', 'Tips and tricks section description', 'cadent-seo'); ?>
+                <?php echo esc_html_x('There are many variations of passages of Lorem available, but the majority have suffered altration in some.There are many variations available.', 'Tips and tricks section description', 'pico-theme'); ?>
             </p>
             <!-- /wp:paragraph -->
         </div>

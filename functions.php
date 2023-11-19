@@ -1,7 +1,7 @@
 <?php
 
-if (!function_exists('cadent_seo_theme_setup')) {
-    function cadent_seo_theme_setup()
+if (!function_exists('pico_theme_setup')) {
+    function pico_theme_setup()
     {
         // Add support for block styles.
         add_theme_support('wp-block-styles');
@@ -10,4 +10,4 @@ if (!function_exists('cadent_seo_theme_setup')) {
         add_editor_style('editor-style.css');
     }
 }
-add_action('after_setup_theme', 'cadent_seo_theme_setup');
+add_action('after_setup_theme', 'pico_theme_setup');
