@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Brands
- * Slug: cadent-seo/brands
+ * Slug: pico-theme/brands
  * Categories: gallery
  */
 ?>

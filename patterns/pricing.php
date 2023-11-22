@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Pricing
- * Slug: cadent-seo/pricing
+ * Slug: pico-theme/pricing
  */
 ?>
 
@@ -12,7 +12,7 @@
     <div class="wp-block-group" style="margin-top:0px;margin-bottom:0px">
         <!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
         <h2 class="wp-block-heading has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-            <?php echo esc_html_x('Choose your Best Plan', 'Pricing section title', 'cadent-seo'); ?>
+            <?php echo esc_html_x('Choose your Best Plan', 'Pricing section title', 'pico-theme'); ?>
         </h2>
         <!-- /wp:heading -->
 
@@ -22,7 +22,7 @@
 
         <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
         <p class="has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-            <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.', 'Pricing section title description', 'cadent-seo'); ?>
+            <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.', 'Pricing section title description', 'pico-theme'); ?>
         </p>
         <!-- /wp:paragraph -->
     </div>
@@ -52,7 +52,7 @@
 
                 <!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h4 class="wp-block-heading has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Start Up', 'pricing card title', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Start Up', 'pricing card title', 'pico-theme'); ?>
                 </h4>
                 <!-- /wp:heading -->
 
@@ -64,7 +64,7 @@
                 <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"fontSize":"large"} -->
                 <h5 class="wp-block-heading has-text-align-center has-large-font-size"
                     style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('$10.00 /Month', 'Pricing card price per month', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('$10.00 /Month', 'Pricing card price per month', 'pico-theme'); ?>
                 </h5>
                 <!-- /wp:heading -->
 
@@ -77,31 +77,31 @@
                 <ul style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;padding-top:0;padding-bottom:0"
                     class="is-style-checkmark-list"><!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Fusce eget sagittis libero finibus.', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Fusce eget sagittis libero finibus.', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Sed quam in risus placerat.', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Sed quam in risus placerat.', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Ultricies elit tortor nec diam.', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Ultricies elit tortor nec diam.', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Varius tincunt dolor pharetra.', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Varius tincunt dolor pharetra.', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Donec cursus lectus quis porta', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Donec cursus lectus quis porta', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
                 </ul>
@@ -118,7 +118,7 @@
                     <div class="wp-block-button has-custom-width wp-block-button__width-50"><a
                             class="wp-block-button__link has-background wp-element-button"
                             style="background-color:#2842b0">
-                            <?php echo esc_html_x('Select plan', 'Pricing card button', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('Select plan', 'Pricing card button', 'pico-theme'); ?>
                         </a></div>
                     <!-- /wp:button -->
                 </div>
@@ -144,7 +144,7 @@
                 <!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2"} -->
                 <h4 class="wp-block-heading has-text-align-center has-base-2-color has-text-color has-link-color"
                     style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Premium', 'pricing card title', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Premium', 'pricing card title', 'pico-theme'); ?>
                 </h4>
                 <!-- /wp:heading -->
 
@@ -156,7 +156,7 @@
                 <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"large"} -->
                 <h5 class="wp-block-heading has-text-align-center has-base-2-color has-text-color has-link-color has-large-font-size"
                     style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('$50.00 /Month', 'Pricing card price per month', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('$50.00 /Month', 'Pricing card price per month', 'pico-theme'); ?>
                 </h5>
                 <!-- /wp:heading -->
 
@@ -169,31 +169,31 @@
                 <ul style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px"
                     class="is-style-checkmark-list has-base-2-color has-text-color has-link-color"><!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Fusce eget sagittis libero finibus', 'Pricing card features list', 'cadent-seo'); ?>.
+                        <?php echo esc_html_x('Fusce eget sagittis libero finibus', 'Pricing card features list', 'pico-theme'); ?>.
                     </li>
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Sed quam in risus placerat', 'Pricing card features list', 'cadent-seo'); ?>.
+                        <?php echo esc_html_x('Sed quam in risus placerat', 'Pricing card features list', 'pico-theme'); ?>.
                     </li>
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Ultricies elit tortor nec diam', 'Pricing card features list', 'cadent-seo'); ?>.
+                        <?php echo esc_html_x('Ultricies elit tortor nec diam', 'Pricing card features list', 'pico-theme'); ?>.
                     </li>
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Varius tincunt dolor pharetra.', 'Pricing card features list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Varius tincunt dolor pharetra.', 'Pricing card features list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
 
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Donec cursus lectus quis porta', 'Pricing card features list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Donec cursus lectus quis porta', 'Pricing card features list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
                 </ul>
@@ -209,7 +209,7 @@
                     <!-- wp:button {"backgroundColor":"accent-3","width":50} -->
                     <div class="wp-block-button has-custom-width wp-block-button__width-50"><a
                             class="wp-block-button__link has-accent-3-background-color has-background wp-element-button">
-                            <?php echo esc_html_x('Select plan', 'Pricing card button', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('Select plan', 'Pricing card button', 'pico-theme'); ?>
                         </a></div>
                     <!-- /wp:button -->
                 </div>
@@ -233,7 +233,7 @@
 
                 <!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h4 class="wp-block-heading has-text-align-center" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Unlimited', 'pricing card title', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Unlimited', 'pricing card title', 'pico-theme'); ?>
                 </h4>
                 <!-- /wp:heading -->
 
@@ -245,7 +245,7 @@
                 <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"fontSize":"large"} -->
                 <h5 class="wp-block-heading has-text-align-center has-large-font-size"
                     style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('$100.00 /Month', 'Pricing card price per month', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('$100.00 /Month', 'Pricing card price per month', 'pico-theme'); ?>
                 </h5>
                 <!-- /wp:heading -->
 
@@ -259,31 +259,31 @@
                     class="is-style-checkmark-list">
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Fusce eget sagittis libero finibus.', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Fusce eget sagittis libero finibus.', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
                     
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Sed quam in risus placerat.', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Sed quam in risus placerat.', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
                     
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Ultricies elit tortor nec diam.', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Ultricies elit tortor nec diam.', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
                     
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Varius tincunt dolor pharetra.', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Varius tincunt dolor pharetra.', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
                     
                     <!-- wp:list-item -->
                     <li>
-                        <?php echo esc_html_x('Donec cursus lectus quis porta', 'Pricing card feature list', 'cadent-seo'); ?>
+                        <?php echo esc_html_x('Donec cursus lectus quis porta', 'Pricing card feature list', 'pico-theme'); ?>
                     </li>
                     <!-- /wp:list-item -->
                 </ul>
@@ -300,7 +300,7 @@
                     <div class="wp-block-button has-custom-width wp-block-button__width-50"><a
                             class="wp-block-button__link has-background wp-element-button"
                             style="background-color:#2842b0">
-                            <?php echo esc_html_x('Select plan', 'Pricing card button', 'cadent-seo'); ?>
+                            <?php echo esc_html_x('Select plan', 'Pricing card button', 'pico-theme'); ?>
                         </a></div>
                     <!-- /wp:button -->
                 </div>

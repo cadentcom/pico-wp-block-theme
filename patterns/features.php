@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Features
- * Slug: cadent-seo/features
+ * Slug: pico-theme/features
  */
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px"},"margin":{"top":"0px","bottom":"0px"}}},"layout":{"type":"constrained","contentSize":"1140px"}} -->
@@ -10,19 +10,19 @@
     <div class="wp-block-columns" style="padding-top:0px;padding-bottom:0px"><!-- wp:column -->
         <div class="wp-block-column"><!-- wp:paragraph -->
             <p>
-                <?php echo esc_html_x('Features', 'Features tag line', 'cadent-seo'); ?>
+                <?php echo esc_html_x('Features', 'Features tag line', 'pico-theme'); ?>
             </p>
             <!-- /wp:paragraph -->
 
             <!-- wp:heading {"level":"2"} -->
             <h2 class="wp-block-heading">
-                <?php echo esc_html_x('Build Your Business with Our SEO Agency.', 'Features title', 'cadent-seo'); ?>
+                <?php echo esc_html_x('Build Your Business with Our SEO Agency.', 'Features title', 'pico-theme'); ?>
             </h2>
             <!-- /wp:heading -->
 
             <!-- wp:paragraph -->
             <p>
-                <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, the majority have suffered.', 'Features title description', 'cadent-seo'); ?>
+                <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, the majority have suffered.', 'Features title description', 'pico-theme'); ?>
             </p>
             <!-- /wp:paragraph -->
         </div>
@@ -56,7 +56,7 @@
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('Keyword Targeting', 'Featured card title', 'cadent-seo'); ?>
+                <?php echo esc_html_x('Keyword Targeting', 'Featured card title', 'pico-theme'); ?>
             </h3>
             <!-- /wp:heading -->
 
@@ -66,7 +66,7 @@
 
             <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <p style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'Featured card description', 'cadent-seo') ?>
+                <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'Featured card description', 'pico-theme') ?>
             </p>
             <!-- /wp:paragraph -->
         </div>
@@ -88,7 +88,7 @@
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('Email Marketing', 'Featured card title', 'cadent-seo'); ?>
+                <?php echo esc_html_x('Email Marketing', 'Featured card title', 'pico-theme'); ?>
             </h3>
             <!-- /wp:heading -->
 
@@ -98,7 +98,7 @@
 
             <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <p style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'Featured card description', 'cadent-seo') ?>
+                <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'Featured card description', 'pico-theme') ?>
             </p>
             <!-- /wp:paragraph -->
         </div>
@@ -120,7 +120,7 @@
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('Market Research', 'Featured card title', 'cadent-seo'); ?>
+                <?php echo esc_html_x('Market Research', 'Featured card title', 'pico-theme'); ?>
             </h3>
             <!-- /wp:heading -->
 
@@ -130,7 +130,7 @@
 
             <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
             <p style="margin-top:0px;margin-bottom:0px">
-                <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'Featured card description', 'cadent-seo') ?>
+                <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'Featured card description', 'pico-theme') ?>
             </p>
             <!-- /wp:paragraph -->
         </div>

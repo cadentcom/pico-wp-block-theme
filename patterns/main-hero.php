@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Hero with image
- * Slug: cadent-seo/main-hero
+ * Slug: pico-theme/main-hero
  * Categories: banner, hero
  */
 ?>
@@ -13,20 +13,20 @@
         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:55%">
             <!-- wp:heading {"level":1} -->
             <h1 class="wp-block-heading">
-                <?php echo esc_html_x('We Help To Build Your Success With great Marketing', 'Hero section title', 'cadent-seo') ?>
+                <?php echo esc_html_x('We Help To Build Your Success With great Marketing', 'Hero section title', 'pico-theme') ?>
             </h1>
             <!-- /wp:heading -->
 
             <!-- wp:paragraph -->
             <p>
-                <?php echo esc_html_x('Mauris in diam sed magna rutrum scelerisque. Nulla iaculis quis massa eu iaculis. Fusce in tempus augue, et hendrerit ligula.', 'Hero section short description', 'cadent-seo') ?>
+                <?php echo esc_html_x('Mauris in diam sed magna rutrum scelerisque. Nulla iaculis quis massa eu iaculis. Fusce in tempus augue, et hendrerit ligula.', 'Hero section short description', 'pico-theme') ?>
             </p>
             <!-- /wp:paragraph -->
 
             <!-- wp:buttons -->
             <div class="wp-block-buttons"><!-- wp:button -->
                 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button">
-                        <?php echo esc_html_x('Know More', 'Hero section call to action button', 'cadent-seo') ?>
+                        <?php echo esc_html_x('Know More', 'Hero section call to action button', 'pico-theme') ?>
                     </a></div>
                 <!-- /wp:button -->
             </div>

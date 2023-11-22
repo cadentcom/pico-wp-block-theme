@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Portfolio
- * Slug: cadent-seo/portfolio
+ * Slug: pico-theme/portfolio
  */
 ?>
 
@@ -13,7 +13,7 @@
             <div class="wp-block-column">
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Portfolio', 'Portfolio section title tag', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Portfolio', 'Portfolio section title tag', 'pico-theme'); ?>
                 </p>
                 <!-- /wp:paragraph -->
 
@@ -24,7 +24,7 @@
 
                 <!-- wp:heading {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h2 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Please Check Our recent Case Study', 'Portfolio section title', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('Please Check Our recent Case Study', 'Portfolio section title', 'pico-theme'); ?>
                 </h2>
                 <!-- /wp:heading -->
 
@@ -35,7 +35,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.', 'Portfolio section title descrption', 'cadent-seo'); ?>
+                    <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.', 'Portfolio section title descrption', 'pico-theme'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
@@ -57,13 +57,13 @@
     <!-- wp:group {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"layout":{"type":"constrained","contentSize":"100%"}} -->
     <div class="wp-block-group" style="margin-top:0px;margin-bottom:0px">
 
-        <!-- wp:pattern {"slug":"cadent-seo/portfolio-left-image"} /-->
+        <!-- wp:pattern {"slug":"pico-theme/portfolio-left-image"} /-->
 
         <!-- wp:spacer {"height":"50px","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
         <div style="margin-top:0px;margin-bottom:0px;height:50px" aria-hidden="true" class="wp-block-spacer"></div>
         <!-- /wp:spacer -->
 
-        <!-- wp:pattern {"slug":"cadent-seo/portfolio-right-image"} /-->
+        <!-- wp:pattern {"slug":"pico-theme/portfolio-right-image"} /-->
 
     </div>
     <!-- /wp:group -->
