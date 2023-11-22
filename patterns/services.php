@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Services
- * Slug: pico-theme/services
+ * Slug: cadent-seo/services
  */
 ?>
 
@@ -14,7 +14,7 @@
             <div class="wp-block-column">
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('Services', 'Services section title tag', 'pico-theme'); ?>
+                    <?php echo esc_html_x('Services', 'Services section title tag', 'cadent-seo'); ?>
                 </p>
                 <!-- /wp:paragraph -->
 
@@ -25,7 +25,7 @@
 
                 <!-- wp:heading {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h2 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('We Are Specialized in the Following Services.', 'Services section title', 'pico-theme'); ?>
+                    <?php echo esc_html_x('We Are Specialized in the Following Services.', 'Services section title', 'cadent-seo'); ?>
                 </h2>
                 <!-- /wp:heading -->
 
@@ -36,7 +36,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, the majority have suffered.', 'Services section title description', 'pico-theme'); ?>
+                    <?php echo esc_html_x('There are many variations of passages of Lorem Ipsum available, the majority have suffered.', 'Services section title description', 'cadent-seo'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
@@ -75,7 +75,7 @@
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'pico-theme'); ?>
+                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'cadent-seo'); ?>
                 </h3>
                 <!-- /wp:heading -->
 
@@ -86,7 +86,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'pico-theme'); ?>
+                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'cadent-seo'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
@@ -109,7 +109,7 @@
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'pico-theme'); ?>
+                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'cadent-seo'); ?>
                 </h3>
                 <!-- /wp:heading -->
 
@@ -120,7 +120,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'pico-theme'); ?>
+                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'cadent-seo'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
@@ -143,7 +143,7 @@
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'pico-theme'); ?>
+                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'cadent-seo'); ?>
                 </h3>
                 <!-- /wp:heading -->
 
@@ -154,7 +154,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'pico-theme'); ?>
+                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'cadent-seo'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
@@ -185,7 +185,7 @@
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'pico-theme'); ?>
+                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'cadent-seo'); ?>
                 </h3>
                 <!-- /wp:heading -->
 
@@ -196,7 +196,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'pico-theme'); ?>
+                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'cadent-seo'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
@@ -219,7 +219,7 @@
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'pico-theme'); ?>
+                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'cadent-seo'); ?>
                 </h3>
                 <!-- /wp:heading -->
 
@@ -230,7 +230,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'pico-theme'); ?>
+                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'cadent-seo'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
@@ -253,7 +253,7 @@
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <h3 class="wp-block-heading" style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'pico-theme'); ?>
+                    <?php echo esc_html_x('SEO Optimization', 'Service card title', 'cadent-seo'); ?>
                 </h3>
                 <!-- /wp:heading -->
 
@@ -264,7 +264,7 @@
 
                 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
                 <p style="margin-top:0px;margin-bottom:0px">
-                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'pico-theme'); ?>
+                    <?php echo esc_html_x('There are many variations of passages Lorem Ipsum available, but majority have suffered alteration in some form, injected humour.', 'service card description', 'cadent-seo'); ?>
                 </p>
                 <!-- /wp:paragraph -->
             </div>
