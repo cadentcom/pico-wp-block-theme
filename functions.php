@@ -1,49 +1,68 @@
 <?php
 
-if (!function_exists('wp_body_open')) {
-
-    function wp_body_open()
+if (!function_exists('pico_studio_theme_support')):
+    function pico_studio_theme_support()
     {
-        do_action('wp_body_open');
+
+        // Add support for block styles.
+        add_theme_support('wp-block-styles');
+
+        // Enqueue editor styles.
+        add_editor_style('style.css');
+
     }
-}
+endif;
+add_action('after_setup_theme', 'pico_studio_theme_support');
 
 
-// Checking version
-if (site_url() == 'http://localhost/cadent.com/') {
-    define('VERSION', time());
-} else {
-    define('VERSION', wp_get_theme()->get('version'));
-}
-
-
-// Theme startup setup
-if (!function_exists("cadent_theme_setup")) {
-    function cadent_theme_setup()
-    {
-        load_theme_textdomain('cadent');
-        add_theme_support('automatic-feed-links');
-        add_theme_support('title-tag');
-        add_theme_support('custom-logo');
-        add_theme_support('post-formats', array('image', 'quote', 'video', 'audio', 'link', 'gallery'));
-        add_theme_support('post-thumbnails');
-        add_theme_support('html5', array('search-form', 'comment-list', 'comment-form'));
-
-        // Register Navigation Menu
-        register_nav_menus(array(
-            "header_menu" => "Header Menu",
-            "footer_menu" => "Footer Menu",
-        ));
-    }
-    add_action('after_setup_theme', 'cadent_theme_setup');
-}
-
-// Theme assets include
-/* function cadent_theme_assets_enqueue()
+function pico_studio_register_recent_work_post_type()
 {
-    // Theme style enqueue
-    wp_enqueue_style('custom-style', get_theme_file_uri('./assets/css/cadent.css'), null, '1.0.0', 'all');
-    wp_enqueue_style('cadent-style', get_stylesheet_uri(), null, VERSION);
+
+    /**
+     * Post Type: Recent Works.
+     */
+
+    $labels = [
+        "name" => esc_html__("Recent Works", "picostudio"),
+        "singular_name" => esc_html__("Recent Work", "picostudio"),
+        "menu_name" => esc_html__("Recent Works", "picostudio"),
+        "all_items" => esc_html__("All Recent Works", "picostudio"),
+        "add_new" => esc_html__("Add New Recent Work", "picostudio"),
+        "add_new_item" => esc_html__("Add New  Recent Work", "picostudio"),
+        "edit_item" => esc_html__("Edit Recent Work", "picostudio"),
+        "new_item" => esc_html__("New Recent Work", "picostudio"),
+        "view_item" => esc_html__("View Recent Work", "picostudio"),
+        "view_items" => esc_html__("View Recent Works", "picostudio"),
+    ];
+
+    $args = [
+        "label" => esc_html__("Recent Works", "picostudio"),
+        "labels" => $labels,
+        "description" => "",
+        "public" => true,
+        "publicly_queryable" => true,
+        "show_ui" => true,
+        "show_in_rest" => true,
+        "rest_base" => "",
+        "rest_controller_class" => "WP_REST_Posts_Controller",
+        "rest_namespace" => "wp/v2",
+        "has_archive" => true,
+        "show_in_menu" => true,
+        "show_in_nav_menus" => true,
+        "delete_with_user" => false,
+        "exclude_from_search" => false,
+        "capability_type" => "post",
+        "map_meta_cap" => true,
+        "hierarchical" => false,
+        "can_export" => false,
+        "rewrite" => ["slug" => "recent-works", "with_front" => true],
+        "query_var" => true,
+        "menu_icon" => "dashicons-admin-tools",
+        "supports" => ["title", "editor", "thumbnail", "excerpt"],
+        "show_in_graphql" => false,
+    ];
+
+    register_post_type("recent-works", $args);
 }
 
-add_action("wp_enqueue_scripts", "cadent_theme_assets_enqueue"); */
+add_action('init', 'pico_studio_register_recent_work_post_type');
