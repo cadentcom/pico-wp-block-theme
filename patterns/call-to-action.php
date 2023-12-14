@@ -40,7 +40,7 @@
 
             <!-- wp:image {"id":76,"width":"28px","height":"auto","aspectRatio":"0.75","scale":"contain","sizeSlug":"full","linkDestination":"none"} -->
             <figure class="wp-block-image size-full is-resized">
-                <img src="<?php echo esc_url(get_template_directory_uri() . '../assets/images/right-up.png') ?>" alt=""
+                <img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/right-up.png') ?>" alt=""
                     class="wp-image-76" style="aspect-ratio:0.75;object-fit:contain;width:28px;height:auto" />
             </figure>
             <!-- /wp:image -->
