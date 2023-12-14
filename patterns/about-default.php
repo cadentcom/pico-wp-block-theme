@@ -12,11 +12,9 @@
     <div class="wp-block-group" style="margin-bottom:30px">
         <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
         <div class="wp-block-group">
-            <!-- wp:paragraph {"style":{"typography":{"fontSize":"30px"}}} -->
-            <p style="font-size:30px">
-                <strong>
-                    <?php echo esc_html_x('Let’s push your business forward', 'About default section title', 'picostudio'); ?>
-                </strong>
+            <!-- wp:paragraph {"style":{"typography":{"fontSize":"28px"}}} -->
+            <p style="font-size:28px">
+                    <?php echo esc_html_x('LET’S PUSH YOUR BUSINESS FORWARD', 'About default section title', 'picostudio'); ?>
             </p>
             <!-- /wp:paragraph -->
 
