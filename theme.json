@@ -6,19 +6,19 @@
 		"color": {
 			"palette": [
 				{
-					"color": "#3e8cff",
+					"color": "#0db26b",
 					"name": "Pico Primary color",
 					"slug": "custom-pico-primary-color"
 				},
 				{
-					"color": "#f3faff",
+					"color": "#9155A7",
 					"name": "Pico secondary color",
 					"slug": "custom-pico-secondary-color"
 				},
 				{
-					"color": "#07306e",
-					"name": "Pico navy blue color",
-					"slug": "custom-pico-navy-blue-color"
+					"color": "#6DCCA3",
+					"name": "Pico light green color",
+					"slug": "custom-pico-light-green-color"
 				},
 				{
 					"color": "#141414",
@@ -206,25 +206,25 @@
 					"outline": {
 						"border": {
 							"bottom": {
-								"color": "#3e8cff",
+								"color": "#0db26b",
 								"style": "solid",
 								"width": "1px"
 							},
-							"color": "#3e8cff",
+							"color": "#0db26b",
 							"left": {
-								"color": "#3e8cff",
+								"color": "#0db26b",
 								"style": "solid",
 								"width": "1px"
 							},
 							"radius": "100px",
 							"right": {
-								"color": "#3e8cff",
+								"color": "#0db26b",
 								"style": "solid",
 								"width": "1px"
 							},
 							"style": "solid",
 							"top": {
-								"color": "#3e8cff",
+								"color": "#0db26b",
 								"style": "solid",
 								"width": "1px"
 							},
@@ -372,10 +372,6 @@
 					"fontWeight": "600"
 				}
 			}
-		},
-		"color": {
-			"background": "var(--wp--preset--color--custom-pico-secondary-color)",
-			"text": "var(--wp--preset--color--custom-pico-body-text-color)"
 		},
 		"elements": {
 			"button": {
