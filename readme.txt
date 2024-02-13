@@ -1,4 +1,4 @@
-=== Pico wp block ===
+=== Pico wp block Theme ===
 Contributors: Cadent technologies corp
 Requires at least: 6.0
 Tested up to: 6.4.3
@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Pico theme is a wordpress block theme
+Pico WP Block is a lightweight WordPress block theme optimized for performance and accessibility
 
 == Changelog ==
 
@@ -18,7 +18,7 @@ Pico theme is a wordpress block theme
 == Copyright ==
 
 Pico wp block WordPress Theme, (C) 2024 Cadent technologies corp
-Pico wp block is distributed under the terms of the GNU GPL.
+Pico wp block theme is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -29,17 +29,3 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
-
-Poppins Font
-Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins) 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL 
-License URL: https://scripts.sil.org/OFL 
-Source: https://indiantypefoundry.com
--- End of Poppins Font credits --
-
-DM Sans Font
-Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts) 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL 
-License URL: https://scripts.sil.org/OFL 
-Source: https://www.colophon-foundry.org
--- End of DM Sans Font credits --
