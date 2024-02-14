@@ -1,5 +1,5 @@
-=== Pico wp block Theme ===
-Contributors: Cadent technologies corp
+=== Pico WP Block Theme ===
+Contributors: Cadent Technologies Corp.
 Requires at least: 6.0
 Tested up to: 6.4.3
 Requires PHP: 5.7
