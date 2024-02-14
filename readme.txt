@@ -17,8 +17,8 @@ Pico WP Block is a lightweight WordPress block theme optimized for performance a
 
 == Copyright ==
 
-Pico wp block WordPress Theme, (C) 2024 Cadent technologies corp
-Pico wp block theme is distributed under the terms of the GNU GPL.
+Pico WP Block WordPress Theme, (C) 2024 Cadent technologies corp
+Pico WP Block Theme is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
