@@ -22,3 +22,28 @@ To test our theme, we'll use Google Lighthouse. Our goal is to score 100 x 4 for
 - Support for a hero image
 - Featured images for interior pages (optional)
 - A footer with a secondary menu.
+
+### Pico Theme Installation Process in WordPress Theme Local Directory
+To install the pico theme in wordpress local theme directory flow this steps:
+##### Clone the Theme Repository URL from GitHub
+    1. Go to the theme repository.
+    2. Copy the repository URL under "Code."
+    3. Navigate to your WordPress theme local directory.
+    4. Use the following command in your terminal: git clone https://github.com/cadentcom/pico-wp-block-theme.git
+    5. Go to your theme Dashboard (Admin panel) after cloning the theme from the repository.
+    6. Navigate to "Appearance" > "Themes" > Select "Pico WP Block" theme and activate.
+##### Download the Theme from GitHub and Install by Unzipping
+    1. Go to the theme repository.
+    2. Click on "Code" to open a dropdown menu.
+    3. In the dropdown menu, select "Download ZIP" and download the theme.
+    4. Open your download directory and copy the theme.
+    5. Paste the theme into the WordPress theme local directory.
+    6. Unzip the theme file.
+    7. Go to your theme Dashboard (Admin panel) after cloning the theme from the repository.
+    8. Navigate to "Appearance" > "Themes" > Select "Pico WP Block" theme and activate.
+##### Install the Theme from Admin Panel
+    1. Go to the theme repository.
+    2. Click on "Code" to open a dropdown menu.
+    3. In the dropdown menu, select "Download ZIP" and download the theme.
+    4. Go to your theme Dashboard (Admin panel) after cloning the theme from the repository.
+    5. Navigate to "Appearance" > "Themes" > "Add New Theme" > "Upload Theme" > Choose the file > Install, then activate.
