@@ -294,5 +294,12 @@
 			"area": "footer",
 			"name": "footer"
 		}
+	],
+	"customTemplates": [
+		{
+			"name": "page-full-with",
+			"postTypes": ["page"],
+			"title": "Page Fullwith Layout"
+		}
 	]
 }

@@ -12,3 +12,14 @@ Text Domain: picowpblock
 Tags: full-site-editing, 
 */
 
+/* Default Styles */
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+*,body,html{
+    box-sizing: border-box;
+}
+
