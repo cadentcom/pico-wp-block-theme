@@ -297,9 +297,9 @@
 	],
 	"customTemplates": [
 		{
-			"name": "page-full-with",
+			"name": "page-full-width",
 			"postTypes": ["page"],
-			"title": "Page Fullwith Layout"
+			"title": "Page Fullwidth Layout"
 		}
 	]
 }
