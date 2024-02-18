@@ -38,11 +38,15 @@ Here's the `git clone` command for these branches:
 
 To clone the `main` branch, enter this command:
 
-```git clone https://github.com/cadentcom/pico-wp-block-theme.git```
+```
+git clone https://github.com/cadentcom/pico-wp-block-theme.git
+```
 
 To clone the `dev` branch, enter this command, using the `-b` argument to select the branch:
 
-```git clone -b dev https://github.com/cadentcom/pico-wp-block-theme.git```
+```
+git clone -b dev https://github.com/cadentcom/pico-wp-block-theme.git
+```
 
 Follow these steps to use this command on your WordPress server:
 
