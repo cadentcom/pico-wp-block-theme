@@ -54,9 +54,9 @@
 					"slug": "system-font"
 				},
 				{
-					"fontFamily": "Georgia, Palatino, Baskerville, Helvetica, Trebuchet MS, Times New Roman,Garamond",
-					"name": "Pico Theme Added Font",
-					"slug": "pico-theme-added-font"
+					"fontFamily": "Garamond, Georgia, Times New Roman, Times, serif",
+					"name": "Serif Font",
+					"slug": "serif-font"
 				}
 			]
 		},
@@ -152,7 +152,7 @@
 					}
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--pico-theme-added-font)",
+					"fontFamily": "var(--wp--preset--font-family--serif-font)",
 					"fontStyle": "normal",
 					"fontWeight": "700",
 					"lineHeight": "1.5"
@@ -218,7 +218,7 @@
 					}
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--pico-theme-added-font)",
+					"fontFamily": "var(--wp--preset--font-family--serif-font)",
 					"fontStyle": "normal",
 					"fontWeight": "700"
 				}
@@ -281,7 +281,7 @@
 					"text": "var(--wp--preset--color--custom-pico-heading-color)"
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--pico-theme-added-font)",
+					"fontFamily": "var(--wp--preset--font-family--serif-font)",
 					"fontStyle": "normal",
 					"textDecoration": "none"
 				}
