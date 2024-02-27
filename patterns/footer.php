@@ -11,8 +11,8 @@
     <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.88rem","bottom":"1.88rem","left":"1.88rem","right":"1.88rem"},"margin":{"top":"0rem","bottom":"0rem"}}}} -->
     <div class="wp-block-group"
         style="margin-top:0rem;margin-bottom:0rem;padding-top:1.88rem;padding-right:1.88rem;padding-bottom:1.88rem;padding-left:1.88rem">
-        <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontSize":"1rem"}},"textColor":"white"} -->
-        <p class="has-text-align-center has-white-color has-text-color has-link-color" style="font-size:1rem">
+        <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontSize":"0.875rem"}},"textColor":"white"} -->
+        <p class="has-text-align-center has-white-color has-text-color has-link-color" style="font-size:0.875rem">
             <?php echo esc_attr_x('Pico WP Block Theme © 2024 Cadent Technologies Corp.', 'Footer copyright text', 'picowpblock') ?>
         </p>
         <!-- /wp:paragraph -->
